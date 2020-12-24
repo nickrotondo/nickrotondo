@@ -9,7 +9,7 @@
 - 💬 Ask me about memory palaces or how to get rid of knee pain🦵
 - 📎 Here's my [resume](https://github.com/nickrotondo/nickrotondo/raw/master/Nick_Rotondo-Resume-2020.pdf)
 
-### Connect with me:	### Connect with me:
+### Connect with me:
 <p align="left">	<p align="left">
   <a href="mailto:nickrotondo@gmail.com" target="blank">	  <a href="mailto:nickrotondo@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/gmail-1.svg" alt="Email me at nickrotondo@gmail.com" style="vertical-align:top margin:6px 4px">
