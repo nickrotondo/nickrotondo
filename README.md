@@ -28,41 +28,24 @@
 ### Languages and Tools:
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/cad7a933986197a36d59c559442a819f79775bda/badges/dev/%20languages/%20html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/dev/%20languages/%20css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/dev/%20languages/%20js.svg" alt="Javascript" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/cad7a933986197a36d59c559442a819f79775bda/badges/dev/%20frameworks/%20react.svg" alt="React" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/cad7a933986197a36d59c559442a819f79775bda/badges/dev/%20frameworks/%20nodejs.svg" alt="Node" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/cad7a933986197a36d59c559442a819f79775bda/badges/dev/%20tools/%20visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://sass-lang.com/">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/cad7a933986197a36d59c559442a819f79775bda/badges/dev/%20languages/%20sass.svg" alt="SASS" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://github.com/nickrotondo">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/b065149a39e3e10e3b442c00bbecd5df5203f608/badges/dev/%20tools/github.svg" alt="Github" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20tools/mongodb.svg" alt="MongoDB" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20tools/postgresql.svg" alt="PostgreSQL" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20tools/mysql.svg" alt="MySQL" style="vertical-align:top margin:6px 4px">
-  </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="32px">
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="Javascript" width="32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original.svg" alt="HTML5" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" alt="CSS" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nodejs/nodejs-original.svg" alt="Node" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/express/express-original.svg" alt="Express" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mysql/mysql-original.svg" alt="PostgreSQL" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/postgresql/postgresql-original.svg" alt="MySQL" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/sass/sass-original.svg" alt="SASS" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/webpack/webpack-original.svg" alt="Webpack" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/babel/babel-original.svg" alt="Babel" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-original.svg" alt="Git" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/github/github-original.svg" alt="Github" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-original.svg" alt="Git" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="34px">
+
 </p>
 
 ---
