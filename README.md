@@ -25,7 +25,7 @@
   </a>
 </p>
 
-### Languages and Tools:
+### Languages, Frameworks, and Tools I Use:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
