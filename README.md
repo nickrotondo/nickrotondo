@@ -7,6 +7,7 @@
 - 📚 I'm currently reading [Can't Hurt Me][book] by David Goggins   
 - 👨‍👩‍👧‍👧 I have two daughters named Ellie and Abbie  
 - 💬 Ask me about memory palaces or how to get rid of knee pain🦵  
+- 📄 Here's my [resume]()
 
 ### Connect with me:
 <p align="left">
