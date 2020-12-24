@@ -41,10 +41,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/webpack/webpack-original.svg" alt="Webpack" width="34px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/babel/babel-original.svg" alt="Babel" width="34px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-original.svg" alt="Git" width="34px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/github/github-original.svg" alt="Github" width="34px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-original.svg" alt="Git" width="34px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nginx/nginx-original.svg" alt="Nginx" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/npm/npm-original-wordmark.svg" alt="NPM" width="34px">  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="34px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="34px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/sketch/sketch-original.svg" alt="Sketch" width="34px">
 
 </p>
 
