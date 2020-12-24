@@ -8,7 +8,7 @@
 - 👨‍👩‍👧‍👧 I have two daughters named Ellie and Abbie  
 - 💬 Ask me about memory palaces or how to get rid of knee pain🦵  
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   <a href="mailto:nickrotondo@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/gmail-1.svg" alt="Email me at nickrotondo@gmail.com" style="vertical-align:top margin:6px 4px">
@@ -50,6 +50,15 @@
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/b065149a39e3e10e3b442c00bbecd5df5203f608/badges/dev/%20tools/github.svg" alt="Github" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20tools/mongodb.svg" alt="Github" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20tools/postgresql.svg" alt="Github" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20tools/mysql.svg" alt="Github" style="vertical-align:top margin:6px 4px">
   </a>
   
 </p>
