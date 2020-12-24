@@ -9,20 +9,20 @@
 - 💬 Ask me about memory palaces or how to get rid of knee pain🦵
 - 📎 Here's my [resume](https://github.com/nickrotondo/nickrotondo/raw/master/Nick_Rotondo-Resume-2020.pdf)
 
-### Connect with me:
-<p align="left">
-  <a href="mailto:nickrotondo@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/nickrotondo/nickrotondo/7033a3d8fee8f335adada9384e00703b7f838530/icons/gmail.svg" alt="Email me at nickrotondo@gmail.com" width="38px">
-  </a>
-  <a href="https://linkedin.com/in/nicklrotondo" target="blank">
-    <img src="https://raw.githubusercontent.com/nickrotondo/nickrotondo/7033a3d8fee8f335adada9384e00703b7f838530/icons/linkedin.svg" alt="Nick Rotondo on Instagram" width="38px">
-  </a>
-  <a href="https://instagram.com/nicktherosh" target="blank">
-    <img src="https://raw.githubusercontent.com/nickrotondo/nickrotondo/7033a3d8fee8f335adada9384e00703b7f838530/icons/instagram.svg" alt="Nick Rotondo on Instagram" width="38px">
-  </a>
-  <a href="https://twitter.com/nicktherosh" target="blank">
-    <img src="https://raw.githubusercontent.com/nickrotondo/nickrotondo/7033a3d8fee8f335adada9384e00703b7f838530/icons/twitter.svg" alt="Nick Rotondo on Twitter" width="38px">
-  </a>
+### Connect with me:	### Connect with me:
+<p align="left">	<p align="left">
+  <a href="mailto:nickrotondo@gmail.com" target="blank">	  <a href="mailto:nickrotondo@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/gmail-1.svg" alt="Email me at nickrotondo@gmail.com" style="vertical-align:top margin:6px 4px">	    <img src="https://raw.githubusercontent.com/nickrotondo/nickrotondo/7033a3d8fee8f335adada9384e00703b7f838530/icons/gmail.svg" alt="Email me at nickrotondo@gmail.com" width="38px">
+  </a>	  </a>
+  <a href="https://linkedin.com/in/nicklrotondo" target="blank">	  <a href="https://linkedin.com/in/nicklrotondo" target="blank">
+    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/linkedin.svg" alt="Nick Rotondo on Instagram" style="vertical-align:top margin:6px 4px">	    <img src="https://raw.githubusercontent.com/nickrotondo/nickrotondo/7033a3d8fee8f335adada9384e00703b7f838530/icons/linkedin.svg" alt="Nick Rotondo on Instagram" width="38px">
+  </a>	  </a>
+  <a href="https://instagram.com/nicktherosh" target="blank">	  <a href="https://instagram.com/nicktherosh" target="blank">
+    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/instagram.svg" alt="Nick Rotondo on Instagram" style="vertical-align:top margin:6px 4px">	    <img src="https://raw.githubusercontent.com/nickrotondo/nickrotondo/7033a3d8fee8f335adada9384e00703b7f838530/icons/instagram.svg" alt="Nick Rotondo on Instagram" width="38px">
+  </a>	  </a>
+  <a href="https://twitter.com/nicktherosh" target="blank">	  <a href="https://twitter.com/nicktherosh" target="blank">
+    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/twitter.svg" alt="Nick Rotondo on Twitter" style="vertical-align:top margin:6px 4px">	    <img src="https://raw.githubusercontent.com/nickrotondo/nickrotondo/7033a3d8fee8f335adada9384e00703b7f838530/icons/twitter.svg" alt="Nick Rotondo on Twitter" width="38px">
+  </a>	  </a>
 </p>
 
 ### Languages, Frameworks, and Tools I Use:
