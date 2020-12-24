@@ -61,6 +61,7 @@
   <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/a541fbe1a2ebf633193df00fb1e56b304c007424/badges/dev/%20tools/mysql.svg" alt="MySQL" style="vertical-align:top margin:6px 4px">
   </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="32px">
   
 </p>
 
