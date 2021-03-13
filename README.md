@@ -2,12 +2,10 @@
 
 ## I'm a Christian, Husband, Father, Developer, Designer and Continual Learner!
 
-- 🔍 I’m currently looking for a full-time job as a developer
-- 🌱 I’m currently learning React Native, SASS styling, and four ball juggling
-- 📚 I'm currently reading [Can't Hurt Me][book] by David Goggins
+- 🌱 I’m currently learning Ruby, Rails and four ball juggling
+- 📚 I'm currently reading [Total Money Makeover][book] by Dave Ramsey
 - 👨‍👩‍👧‍👧 I have two daughters named Ellie and Abbie
 - 💬 Ask me about memory palaces or how to get rid of knee pain🦵
-- 📎 Here's my [resume](https://github.com/nickrotondo/nickrotondo/raw/master/Nick_Rotondo-Resume-2020.pdf)
 
 ### Connect with me:
 <p align="left">	<p align="left">
@@ -99,4 +97,4 @@
 [twitter]: https://twitter.com/nicktherosh
 [instagram]: https://instagram.com/nicktherosh
 [linkedin]: https://linkedin.com/in/nicklrotondo
-[book]: https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287
+[book]: https://www.daveramsey.com/store/product/the-total-money-makeover-book-by-dave-ramsey?int_cmpgn=no_campaign&int_dept=store_bu&int_lctn=Homepage-Products-1&int_fmt=text&int_dscpn=Store_Carousel_the-total-money-makeover-book-by-dave-ramsey
