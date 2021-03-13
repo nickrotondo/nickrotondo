@@ -18,9 +18,6 @@
   <a href="https://instagram.com/nicktherosh" target="blank">
     <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/instagram.svg" alt="Nick Rotondo on Instagram" style="vertical-align:top margin:6px 4px">
     </a>
-  <a href="https://twitter.com/nicktherosh" target="blank">	 
-    <img src="https://raw.githubusercontent.com/nickrotondo/profile-badges/master/badges/social/twitter.svg" alt="Nick Rotondo on Twitter" style="vertical-align:top margin:6px 4px">
-  </a>
 </p>
 
 ### Languages, Frameworks, and Tools I Use:
@@ -94,7 +91,6 @@
 
 [website]: https://nicklrotondo.com
 [email]: mailto:nickrotondo@gmail.com
-[twitter]: https://twitter.com/nicktherosh
 [instagram]: https://instagram.com/nicktherosh
 [linkedin]: https://linkedin.com/in/nicklrotondo
 [book]: https://www.daveramsey.com/store/product/the-total-money-makeover-book-by-dave-ramsey?int_cmpgn=no_campaign&int_dept=store_bu&int_lctn=Homepage-Products-1&int_fmt=text&int_dscpn=Store_Carousel_the-total-money-makeover-book-by-dave-ramsey
