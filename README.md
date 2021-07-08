@@ -2,10 +2,10 @@
 
 ## I'm a Christian, Husband, Father, Developer, Designer and Continual Learner!
 
-- 🌱 I’m currently learning Ruby, Rails and four ball juggling
+- 🌱 I’m currently learning Kotlin
 - 📚 I'm currently reading [Never Split the Difference][book] by Chris Voss
 - 👨‍👩‍👧‍👧 I have two daughters named Ellie and Abbie and one more girl coming in October
-- 💬 Ask me about memory palaces or how to get rid of knee pain🦵
+- 💬 Ask me about memory palaces, barefoot shoes or how to get rid of knee pain🦵
 
 ### Connect with me:
 <p align="left">	<p align="left">
@@ -35,8 +35,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" alt="CSS" width="36px">
   </a>
+  <a href="https://sass-lang.com/" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/sass/sass-original.svg" alt="SASS" width="36px">
+  </a>
   <a href="https://nodejs.org/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nodejs/nodejs-original.svg" alt="Node" width="36px">
+  </a>
+  <a href="hhttps://www.ruby-lang.org/en/" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ruby/ruby-original.svg" alt="Ruby" width="36px">
   </a>
   <a href="https://www.mongodb.com/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="36px">
@@ -47,15 +53,6 @@
   <a href="https://www.mysql.com/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/postgresql/postgresql-original.svg" alt="MySQL" width="36px">
   </a>
-  <a href="https://sass-lang.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/sass/sass-original.svg" alt="SASS" width="36px">
-  </a>
-  <a href="https://webpack.js.org/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/webpack/webpack-original.svg" alt="Webpack" width="36px">
-  </a>
-  <a href="https://babeljs.io/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/babel/babel-original.svg" alt="Babel" width="36px">
-  </a>
   <a href="https://github.com/nickrotondo/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-original.svg" alt="Git" width="36px">
   </a>
@@ -65,14 +62,9 @@
   <a href="https://www.nginx.com/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nginx/nginx-original.svg" alt="Nginx" width="36px">
   </a>
-  <a href="https://www.npmjs.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/npm/npm-original-wordmark.svg" alt="NPM" width="36px">
-  </a>
-
   <a href="https://www.adobe.com/products/photoshop.html" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="36px">
   </a>
-
   <a href="https://www.adobe.com/products/illustrator.html" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="36px">
   </a>
