@@ -3,8 +3,8 @@
 ## I'm a Christian, Husband, Father, Developer, Designer and Continual Learner!
 
 - 🌱 I’m currently learning Ruby, Rails and four ball juggling
-- 📚 I'm currently reading [Total Money Makeover][book] by Dave Ramsey
-- 👨‍👩‍👧‍👧 I have two daughters named Ellie and Abbie
+- 📚 I'm currently reading [Never Split the Difference][book] by Chris Voss
+- 👨‍👩‍👧‍👧 I have two daughters named Ellie and Abbie and one more girl coming in October
 - 💬 Ask me about memory palaces or how to get rid of knee pain🦵
 
 ### Connect with me:
@@ -93,4 +93,4 @@
 [email]: mailto:nickrotondo@gmail.com
 [instagram]: https://instagram.com/nicktherosh
 [linkedin]: https://linkedin.com/in/nicklrotondo
-[book]: https://www.daveramsey.com/store/product/the-total-money-makeover-book-by-dave-ramsey?int_cmpgn=no_campaign&int_dept=store_bu&int_lctn=Homepage-Products-1&int_fmt=text&int_dscpn=Store_Carousel_the-total-money-makeover-book-by-dave-ramsey
+[book]: https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805
