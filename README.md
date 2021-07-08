@@ -77,8 +77,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="nickrotondo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nickrotondo&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&theme=dark" />
+  
+  [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickrotondo&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&theme=dark)](https://github.com/nickrotondo/github-readme-stats)
 </details>
 
 [website]: https://nicklrotondo.com
