@@ -1,11 +1,6 @@
-### Hello, my name is Nick Rotondo 👋
+### Hello, my name is Nick Rotondo
 
 ## I'm a Christian, Husband, Father, Developer, Designer and Continual Learner!
-
-- 🌱 I’m currently learning Kotlin
-- 📚 I'm currently reading [Never Split the Difference][book] by Chris Voss
-- 👨‍👩‍👧‍👧 I have two daughters named Ellie and Abbie and one more girl coming in October
-- 💬 Ask me about memory palaces, barefoot shoes or how to get rid of knee pain🦵
 
 ### Connect with me:
 <p align="left">	<p align="left">
@@ -81,8 +76,6 @@
   [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickrotondo&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&theme=dark)](https://github.com/nickrotondo/github-readme-stats)
 </details>
 
-[website]: https://nicklrotondo.com
 [email]: mailto:nickrotondo@gmail.com
 [instagram]: https://instagram.com/nicktherosh
 [linkedin]: https://linkedin.com/in/nicklrotondo
-[book]: https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805
