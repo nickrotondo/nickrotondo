@@ -1,4 +1,4 @@
-## Hello, my name is Nick Rotondo
+# Hello, my name is Nick Rotondo
 
 - Christian
 - Husband
@@ -47,9 +47,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickrotondo&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&theme=dark)](https://github.com/nickrotondo/github-readme-stats)
+  [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickrotondo&show_icons=true&hide_border=true&hide=stars,issues,contribs&count_private=true&theme=dark)](https://github.com/nickrotondo/github-readme-stats)
 </details>
-
+  
 [email]: mailto:nickrotondo@gmail.com
 [instagram]: https://instagram.com/nicktherosh
 [linkedin]: https://linkedin.com/in/nicklrotondo
